@@ -4,7 +4,6 @@
 	<classpathentry kind="src" path="src/groovy"/>
 	<classpathentry excluding="spring/" kind="src" path="grails-app/conf"/>
 	<classpathentry kind="src" path="grails-app/conf/spring"/>
-	<classpathentry kind="src" path="grails-app/controllers"/>
 	<classpathentry kind="src" path="grails-app/domain"/>
 	<classpathentry kind="src" path="grails-app/i18n"/>
 	<classpathentry kind="src" path="grails-app/services"/>
